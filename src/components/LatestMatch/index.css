@@ -1,0 +1,20 @@
+.row-logo-text {
+  width: 90%;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+  align-items: center;
+  margin: 20px;
+  background-color: #0f172a;
+  color: white;
+  font-family: 'Bree Serif';
+}
+.logo-3 {
+  height: 30vh;
+  width: 30vh;
+  background-color: aliceblue;
+}
+
+.container-all {
+  width: 90%;
+}

@@ -1,0 +1,16 @@
+.container-of-img {
+  height: 45vh;
+  width: 20vw;
+  border: 2px solid white;
+  border-radius: 20px;
+  margin: 20px;
+  background-color: #0f172a;
+  color: white;
+  font-family: 'Bree Serif';
+  font-size: 15px;
+}
+.img-small {
+  height: 10vh;
+  margin-top: 10px;
+  font-weight: 300px;
+}

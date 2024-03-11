@@ -1,0 +1,23 @@
+.sub-container {
+  height: 15vh;
+  width: 50vh;
+  border: 2px solid white;
+  font-family: 'Bree Serif';
+  color: white;
+  font-weight: 300px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin: 10px;
+  border-radius: 15px;
+  background-color: #ffffff33;
+  flex-direction: row;
+  font-size: 30px;
+}
+.img-pic {
+  height: 10vh;
+  margin-right: 25px;
+}
+.Link-1 {
+  text-decoration: none;
+}
